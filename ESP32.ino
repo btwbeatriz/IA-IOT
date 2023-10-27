@@ -6,8 +6,8 @@
 HTTPClient client;
 DHT dht(4, DHT11);
 
-char wifiSsid[] = "iPhone Airton";
-char wifiPass[] = "2153818aa";
+char wifiSsid[] = "xxxxxxx";
+char wifiPass[] = "xxxxxxx";
 
 char server[] = "https://api.tago.io/data";
 char header[] = "application/json";
