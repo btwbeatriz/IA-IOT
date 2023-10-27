@@ -11,7 +11,7 @@ char wifiPass[] = "xxxxxxx";
 
 char server[] = "https://api.tago.io/data";
 char header[] = "application/json";
-char token[] = "40d76eba-4906-4789-87f6-e9bc19cd28fc";
+char token[] = "xxxxxxxxxxxxxxxxxxxxx";
 
 void initWifi(){
   Serial.println("Conectando no WiFi");
